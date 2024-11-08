@@ -12,7 +12,7 @@ const introdata = {
         third: "Based In Naogaon Sadar",
     },
     description: "I'm MD Mizanur Rahman, a dedicated tech enthusiast with a strong focus on digital innovation and purposeful design. I bring together technical expertise and creativity to build impactful solutions, constantly pushing boundaries to make a meaningful difference. This portfolio reflects my commitment to excellence and growth in the tech world.",
-    your_img_url: "https://ibb.co.com/ynvP7R9",
+    your_img_url: "https://i.ibb.co.com/TBj2dTf/462615827-1702222883904830-7298269378380548395-n-removebg-preview.png",
 };
 
 const dataabout = {
@@ -73,63 +73,63 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://ibb.co.com/vsH8M7d",
+        img: "https://i.ibb.co.com/ZHVCbng/448267670-1621344638659322-3011713640144187467-n.jpg",
         description: "Sunhera Resturant, Naogaon Sadar",
         link: "https://www.facebook.com/share/15AzKwx5Cd/",
     },
     {
-        img: "https://ibb.co.com/zRSh0dC",
+        img: "https://i.ibb.co.com/R0CpV8t/445392623-1614240342703085-435921518390207129-n.jpg",
         description: "With Piyash Buddy, Naogaon Sadar",
         link: "https://www.facebook.com/share/1AjDGx4vTo/",
     },
     {
-        img: "https://ibb.co.com/xfbp6LC",
+        img: "https://i.ibb.co.com/hZNPV97/431013199-1563255817801538-8709204963502589536-n.jpg",
         description: "First Time In Rajshahi. Captured By Farid Vai",
         link: "https://www.facebook.com/share/15e4haj6dg/",
     },
     {
-        img: "https://ibb.co.com/hcJ3Dxj",
+        img: "https://i.ibb.co.com/RNkRzGm/426557610-1552021365591650-7535974353929949286-n.jpg",
         description: "Shapno Puri, Dinajpur",
         link: "https://www.facebook.com/share/1CqUxPc9tJ/",
     },
     {
-        img: "https://ibb.co.com/23F87zf",
-        description: "Barin Sky Loudge, Naogaon Sadar",
+        img: "https://i.ibb.co.com/jk8VvC1/426392666-1551793248947795-184965181350188671-n.jpg",
+        description: "Barin Sky Lounge, Naogaon Sadar",
         link: "https://www.facebook.com/share/1EzRbsQ9Ya/",
     },
     {
-        img: "https://ibb.co.com/2tmD4hz",
+        img: "https://i.ibb.co.com/58tNH4Q/400505706-1499519740841813-4017806910301678556-n.jpg",
         description: "Memories With Adib",
         link: "https://www.facebook.com/share/18wUxyTA8X/",
     },
 
     {
-        img: "https://ibb.co.com/0Jq5HMn",
+        img: "https://i.ibb.co.com/ys02HyN/416186841-1528188907974896-1825452678094847631-n.jpg",
         description: "A Memorable Trip With Close Friends",
         link: "https://www.facebook.com/share/1WTaF6WL84/",
     },
     {
-        img: "https://ibb.co.com/MGBFdmv",
+        img: "https://i.ibb.co.com/2sZGJT9/459943972-1685975648862887-4495457056586556115-n.jpg",
         description: "Hashaigari Bill, Naogaon Sadar",
         link: "https://www.facebook.com/photo.php?fbid=1685975578862894&set=pb.100023514041448.-2207520000&type=3",
     },
     {
-        img: "https://ibb.co.com/Yck08x1",
+        img: "https://i.ibb.co.com/McVBpmt/448265270-1621360331991086-383351282106171573-n.jpg",
         description: "Sabuz Chemistry Care 2024 Batch",
         link: "https://www.facebook.com/share/1DdAQxkLr1/",
     },
     {
-        img: "https://ibb.co.com/3FMx6zT",
+        img: "https://i.ibb.co.com/94VxKtp/358146117-1429286184531836-5477567509517388228-n.jpg",
         description: "Haha T71 x Me",
         link: "https://www.facebook.com/share/158EmpYTU1/",
     },
     {
-        img: "https://ibb.co.com/37kRY43",
+        img: "https://i.ibb.co.com/L8vNhYF/293240804-1192946008165856-9179977726561254649-n.jpg",
         description: "Captured By Utshob Vai",
         link: "https://www.facebook.com/share/p/12B8g9jGyab/",
     },
     {
-        img: "https://ibb.co.com/Z6NPmnD",
+        img: "https://i.ibb.co.com/pvn8ytF/355363079-1420841458709642-3252997463277096031-n.jpg",
         description: "Old One",
         link: "https://www.facebook.com/photo.php?fbid=1420841398709648&set=pb.100023514041448.-2207520000&type=3",
     },
